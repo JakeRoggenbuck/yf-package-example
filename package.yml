@@ -1,0 +1,12 @@
+# package.yml
+package:
+  name: 'yf-package-example' # No capitalization
+  description: 'An example package for math in yf'
+
+  authors: # Optional
+    - 'Jake Roggenbuck'
+
+  license: 'MIT' # Optional
+
+# Dependencies for this package
+depends:
