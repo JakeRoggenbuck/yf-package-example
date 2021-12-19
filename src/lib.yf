@@ -1,7 +1,7 @@
 e: float = 2.718281828459045;
 pi: float = 3.141592653589793;
 
-int fibonacci(n: int) {
+int fibonacci(n: int): int {
 	if (n == 0) { return 0; }
 	if (n == 1 || n == 2) { return 1; }
 	else { return fibonacci(n-1) + fibonacci(n-2); }
