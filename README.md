@@ -1,6 +1,6 @@
 # yf-package-example
 
-# Install
+## Install
 ```
 yfin install jakeroggenbuck/yf-package-example
 ```
